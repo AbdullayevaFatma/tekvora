@@ -94,7 +94,7 @@ const products = [
     price: 1599.99,
     category: "Laptops",
     description: "14-inch gaming laptop with Ryzen 9, RTX 4070, 1TB SSD.",
-    image: "https://ideacdn.net/idea/ex/71/myassets/products/820/03-ga402-black-l.jpg?revision=1714124052",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Frog.asus.com%2Ftr%2Flaptops%2Frog-zephyrus%2Frog-zephyrus-g14-2025%2Fspec%2F&psig=AOvVaw3QtLpvXLf1eU5CSOj6Jlkr&ust=1751595296211000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCG7JPPn44DFQAAAAAdAAAAABAE",
   },
   {
     id: 13,
